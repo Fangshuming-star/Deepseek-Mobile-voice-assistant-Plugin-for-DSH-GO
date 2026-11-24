@@ -1,7 +1,7 @@
 {
   "name": "dsh-go-phone-assistant",
   "version": "1.0.0",
-  "description": "dsh-go 手机助手插件：直接用 dsh-go 自带的手机操控读屏、点按、输入、开应用，带长期记忆、语音优先、步骤播报和可自定义文案（不依赖任何第三方 App）。",
+  "description": "语音助手：dsh-go 手机助手插件，直接用 dsh-go 自带的手机操控读屏、点按、输入、开应用，带长期记忆、语音优先和步骤播报（不依赖任何第三方 App）。",
   "keywords": [
     "dsh",
     "dsh-plugin",
@@ -62,8 +62,8 @@
   "dshGo": {
     "v": 1,
     "title": {
-      "zh": "手机助手",
-      "en": "Phone assistant"
+      "zh": "语音助手",
+      "en": "Voice assistant"
     },
     "icon": "robot",
     "capabilities": [

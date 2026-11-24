@@ -1,12 +1,12 @@
 {
   "format": 1,
   "title": {
-    "zh": "手机助手",
-    "en": "Phone assistant"
+    "zh": "语音助手",
+    "en": "Voice assistant"
   },
   "description": {
-    "zh": "用 dsh-go 自带的手机操控读屏、点按、输入，带记忆和语音优先，不依赖第三方 App。",
-    "en": "Drive the phone through dsh-go's own phone control, with memory and voice-first mode."
+    "zh": "语音助手：读屏、点按、输入、开应用；长期记忆；语音优先；步骤播报；文案全可改。",
+    "en": "Voice assistant: read, tap, type, open apps; memory; voice-first; step narration."
   },
   "metadata": {
     "categories": {
@@ -31,12 +31,12 @@
     {
       "name": "dsh-go-phone-assistant",
       "title": {
-        "zh": "手机助手",
-        "en": "Phone assistant"
+        "zh": "语音助手",
+        "en": "Voice assistant"
       },
       "description": {
-        "zh": "读屏、点按、输入、开应用；长期记忆；语音优先；步骤播报；文案全可改。",
-        "en": "Read, tap, type, open apps; memory; voice-first; step narration; editable texts."
+        "zh": "语音助手：读屏、点按、输入、开应用；长期记忆；语音优先；步骤播报；文案全可改。",
+        "en": "Voice assistant with phone control, memory and voice-first mode."
       },
       "author": "Fishy",
       "homepage": "https://github.com/Fangshuming-star/Deepseek-Mobile-voice-assistant-Plugin-for-DSH-GO",
