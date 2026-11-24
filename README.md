@@ -1,5 +1,5 @@
 # dsh-go 手机助手 · Phone Assistant for dsh-go
-
+# 利用改该插件可以把DSH-GO结合你的手机然后变为类似于小爱同学或者类似于豆包手机一样的功能
 仓库 / Repo: <https://github.com/Fangshuming-star/Deepseek-Mobile-voice-assistant-Plugin-for-DSH-GO>
 
 一个 dsh-go 插件：**直接用 dsh-go 自带的手机操控**（MCP）读屏、点按、输入、滑动、开应用，带长期记忆、语音优先和步骤播报。**不依赖任何第三方 App。**
